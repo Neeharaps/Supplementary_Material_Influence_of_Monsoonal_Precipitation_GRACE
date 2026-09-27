@@ -1,2 +1,0 @@
-# Supplementary_Material_Influence_of_Monsoonal_Precipitation_GRACE
-Supplementary material for the manuscript "Influence of Monsoonal Precipitation on Post-Monsoon Groundwater Anomalies in South India Using GRACE Data". This document presents a sensitivity analysis evaluating the impact of missing GRACE/GRACE-FO data availability gaps on Mann-Kendall trend tests, Sen's Slope, and Pettitt's change point analyses
